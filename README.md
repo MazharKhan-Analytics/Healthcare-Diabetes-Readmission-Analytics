@@ -1,5 +1,4 @@
 # Healthcare Analytics: Predicting Hospital Readmissions for Diabetes Patients
-**Instructor:** Dr. Ashok Kumar Sharma (Bioinformatics Scientist)  
 **Project Scope:** End-to-End Analytics (Python ➔ Power BI ➔ GitHub)
 
 ## 🎯 Project Overview
